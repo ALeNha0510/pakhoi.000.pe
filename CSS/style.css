@@ -1,0 +1,20 @@
+*{
+    background-image: radial-gradient(#33FFCC 25%,#99FFCC);
+}
+
+h1
+{
+    color: red;
+    text-align: center;
+    background-color: white;
+    border: 1px solid #FFFFFF;
+    width: auto;
+    height: 2cm;
+}
+
+.pic1
+{
+    width:auto;
+    height:auto;
+    justify-content: center;
+}
